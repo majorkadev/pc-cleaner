@@ -20,4 +20,7 @@
 1. Select the function you want to turn off and click the button
 2. Wait for 1-5 seconds to apply changes
 
+# Credits
+- Written by https://github.com/W1lliam1337, improved by me.
+
 ![App menu](https://i.imgur.com/CZY6uxX.png)
